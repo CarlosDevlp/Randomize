@@ -1,0 +1,15 @@
+{
+  "name": "Randomizing",
+  "description": "Make your Random decisions",
+  "icons": {
+    "128": "/r-128.png",
+    "512": "/r-512.png"
+  },
+  "developer": {
+    "name": "Carlos Chavez Laguna."
+  },
+  "launch_path": "/index.html",
+  "default_locale": "en",
+  "orientation": "landscape",
+  "fullscreen": "true"
+}
